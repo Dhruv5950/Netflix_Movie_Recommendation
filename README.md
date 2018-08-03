@@ -4,13 +4,20 @@ Predicting the movie for a user i.e building a movie recommendation system
 
 Requirements
 
-#python-3.6.0
-#conda-5.2
-#numpy-1.15.0
-#pandas-0.23.2
-#sqlite-3.24.0
-#scikit-learn-0.19.2
-#Simple Python RecommendatIon System Engine(Surprise) library.
+python-3.6.0
+
+conda-5.2
+
+numpy-1.15.0
+
+pandas-0.23.2
+
+sqlite-3.24.0
+
+scikit-learn-0.19.2
+
+Simple Python RecommendatIon System Engine(Surprise) library.
+
 
 Took the dataset from https://www.kaggle.com/netflix-inc/netflix-prize-data 
 
